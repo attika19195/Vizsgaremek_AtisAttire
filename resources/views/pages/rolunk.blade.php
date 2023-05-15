@@ -9,5 +9,7 @@
     Számunkra a vevő elégedettsége kiemelkedően fontos, ezért mindent megteszünk annak érdekében, hogy a vásárlás élménye zökkenőmentes legyen. Rugalmas és gyors szállítással, valamint könnyen elérhető ügyfélszolgálattal segítünk abban, hogy a vásárlóink elégedettek legyenek.
 
     Reméljük, hogy az általunk kínált minőségi termékek és a kiváló szolgáltatásaink segítségével elégedett vásárlóink közé tartozhatsz!</p>
+    <h5>Email: AtisAttisre@gmail.com </h5>
+    <h5>Telefonszám: +36701234567</h5>
 </div>
 @endsection
